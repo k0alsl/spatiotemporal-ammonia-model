@@ -12,4 +12,4 @@ The main codes were written in Julia on a Pluto notebook, where we applied the m
 - `grid.csv` - Modeling grid for a 7 km-by-7 km region at 30-m resolution.
 - `cov_roi.csv` - Land use-related covariates computed for the modeling grid. This file is offered in a compressed format (.zip) due to its relatively large size (37 MB), so needs unzipping before use.
 
-For details, please look into the Pluto notebook, or refer to following articles: Kim and Tessum, 2025; [Keller et al., 2015](https://doi.org/10.1289/ehp.1408145).
+For details, please look into the Pluto notebook, or refer to following articles: Kim and Tessum, 2026; [Keller et al., 2015](https://doi.org/10.1289/ehp.1408145).
